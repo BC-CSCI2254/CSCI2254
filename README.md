@@ -34,9 +34,9 @@ In this problem, you are to use CSS, HTML and JavaScript to create a *Haiku* gen
 
 Your solution to this problem will involve the creation of 3 files:
 
-1. three.html
-2. three.css
-3. three.js
+1. two.html
+2. two.css
+3. two.js
 
 The CSS file should create a full-spread splash page with an image of a beach as shown above. The page shown above is borrowed (under fair-use) from the inimitable [Travis Neilson](http://travisneilson.com/) of DevTips fame. You should first watch [Travis' video](https://www.youtube.com/watch?v=hExwnLlj2xk) on how to make a full-screen landing page. What is required over and above what is shown in Travis' video is JavaScript code that will generate and place a *randomly generated Haiku poem* in the center of the landing page.
 
